@@ -1,5 +1,5 @@
-#Quora-Question-Pairs
-##Model to identify duplicate questions in Quora, Can you identify question pairs that have the same intent?
+Quora-Question-Pairs
+Model to identify duplicate questions in Quora, Can you identify question pairs that have the same intent?
 
 #Business Problem
 A place to learn and share knowledge about anything is Quora. It serves as a forum for questions and connections with experts who offer insightful observations and thorough responses. People are better able to understand the world and learn from one another as a result.
