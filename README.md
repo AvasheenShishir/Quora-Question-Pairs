@@ -20,6 +20,9 @@ You would want a probability of a pair of questions to be duplicates so that you
 No strict latency concerns.
 Interpretability is partially important.
 
+## Data set 
+[Click here](https://www.kaggle.com/c/quora-question-pairs/data)
+
 ## Machine Learning Probelm
 ### Mapping the real world problem to an ML problem
 
